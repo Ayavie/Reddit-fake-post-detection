@@ -10,6 +10,9 @@ The ideal solution is finding model with accuracy with at least 70% success rate
 Strategy used:
 
 Try different classifiers.
+
 Try the best one with word and vector vectorizers also RandomSearch was used to help find better hyperparameter values.
+
 Try different preprocessing techniques with RandomSearch with the best model and best vectorizer.
+
 Try XGBoost with RandomSearch.
